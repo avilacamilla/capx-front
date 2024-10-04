@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "display_name": "Wikimedia Armenia",
+      "profile_image": null,
+      "acronym": "AM",
+      "meta_page": "https://meta.wikimedia.org/wiki/Wikimedia_Armenia",
+      "home_project": "https://am.wikimedia.org/",
+      "update_date": "2024-04-11T15:30:44.120232Z",
+      "type": 1,
+      "territory": []
+    },
+    {
+      "id": 2,
+      "display_name": "Wikimedia Korea",
+      "profile_image": null,
+      "acronym": "KR",
+      "meta_page": null,
+      "home_project": null,
+      "update_date": "2024-04-11T15:30:44.123774Z",
+      "type": 1,
+      "territory": [ 4 ]
+    },
+    {
+      "id": 3,
+      "display_name": "Wikimedia Mexico",
+      "profile_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikimedia_Mexico.svg/200px-Wikimedia_Mexico.svg.png",
+      "acronym": "MX",
+      "meta_page": "https://meta.wikimedia.org/wiki/Wikimedia_M%C3%A9xico",
+      "home_project": "https://mx.wikimedia.org/",
+      "update_date": "2024-04-11T15:30:44.123774Z",
+      "type": 1,
+      "territory": [ 6 ]
+    },
+    {
+      "id": 4,
+      "display_name": "Wikimedia Netherlands",
+      "profile_image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Wikimedianederland-logo.png",
+      "acronym": "NL",
+      "meta_page": null,
+      "home_project": "https://nl.wikimedia.org/wiki/Home",
+      "update_date": "2024-04-11T15:30:44.123774Z",
+      "type": 1,
+      "territory": []
+    },
+    {
+      "id": 5,
+      "display_name": "Wikimedistas de Ecuador User Group",
+      "profile_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Wikimedistas_de_Ecuador.svg/200px-Wikimedistas_de_Ecuador.svg.png",
+      "acronym": "ECU",
+      "meta_page": "https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador",
+      "home_project": null,
+      "update_date": "2024-04-11T15:30:44.147613Z",
+      "type": 2,
+      "territory": [ 6 ]
+    },
+    {
+      "id": 6,
+      "display_name": "Wikimedians of Tchad User Group",
+      "profile_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikimedia_Community_User_Group_TChad.svg/200px-Wikimedia_Community_User_Group_TChad.svg.png",
+      "acronym": "TCD",
+      "meta_page": null,
+      "home_project": null,
+      "update_date": "2024-04-11T15:30:44.147613Z",
+      "type": 2,
+      "territory": []
+    },
+    {
+      "id": 7,
+      "display_name": "Wikimedia Community User Group Zambia",
+      "profile_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wikimedia_Community_User_Group_Zambia.svg/200px-Wikimedia_Community_User_Group_Zambia.svg.png",
+      "acronym": "ZMB",
+      "meta_page": "https://meta.wikimedia.org/wiki/Wikimedia_Community_User_Group_Zambia",
+      "home_project": null,
+      "update_date": "2024-04-11T15:30:44.147613Z",
+      "type": 2,
+      "territory": [ 3 ]
+    },
+    {
+      "id": 8,
+      "display_name": "Amical Wikimedia",
+      "profile_image": null,
+      "acronym": "CAT",
+      "meta_page": "https://meta.wikimedia.org/wiki/Amical_Wikimedia",
+      "home_project": null,
+      "update_date": "2024-04-11T15:30:44.147613Z",
+      "type": 3,
+      "territory": [ 1 ]
+    },
+    {
+      "id": 9,
+      "display_name": "Wikimedia Portugal",
+      "profile_image": null,
+      "acronym": "PT",
+      "meta_page": null,
+      "home_project": "https://pt.wikimedia.org/",
+      "update_date": "2024-04-11T15:30:44.123779Z",
+      "type": 1,
+      "territory": [ 5 ]
+    }
+]

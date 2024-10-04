@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "territory_name": "Universe"
+  },
+  {
+    "id": 2,
+    "territory_name": "Earth"
+  },
+  {
+    "id": 3,
+    "territory_name": "Africa"
+  },
+  {
+    "id": 4,
+    "territory_name": "Asia"
+  },
+  {
+    "id": 5,
+    "territory_name": "Europe"
+  },
+  {
+    "id": 6,
+    "territory_name": "America"
+  },
+  {
+    "id": 7,
+    "territory_name": "Oceania"
+  },
+  {
+    "id": 8,
+    "territory_name": "Antartica"
+  }
+]

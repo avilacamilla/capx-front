@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type_code": "C",
+    "type_name": "Chapter"
+  },
+  {
+    "id": 2,
+    "type_code": "U",
+    "type_name": "Wikimedia user group"
+  },
+  {
+    "id": 3,
+    "type_code": "T",
+    "type_name": "Thematic organization"
+  },
+  {
+    "id": 4,
+    "type_code": "G",
+    "type_name": "Gathering group"
+  }
+]
