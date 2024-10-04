@@ -86,3 +86,18 @@ footer {
     font-weight: 500;
     background-color: #851d6a;
 }
+
+
+@media screen and (max-width: 1200px) {
+    .org-section {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .header-content-title-logo {
+        width: 15rem;
+    }
+}
