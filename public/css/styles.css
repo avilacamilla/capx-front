@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    background: #fafafa;
+    color: #333;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+.header-content-title {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    padding: 1rem 0 0 6rem;
+}
+
+.header-content-title-logo {
+    width: 20%;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    margin: 2% 4.5% 5% 4.5%;
+}
+
+
+.org-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(18.75rem, 1fr));
+    gap: 1.25rem; 
+    margin-top: 1.25rem;
+}
+
+.organization-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 18rem;
+    height: 38rem;
+    background: #fff;
+    padding: 1.25rem; 
+    border-radius: 0.6rem; 
+    box-shadow: 0 0 0.6rem rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.organization-card:hover {
+    transform: translateY(-0.5rem);
+    box-shadow: 0 0.6rem 1.2rem rgba(0, 0, 0, 0.2);
+}
+
+.org-image {
+    width: 100%;
+    height: auto;
+    border-radius: 0.625rem;
+}
+
+.org-title {
+    font-family: 'ChunkFive', serif;
+    color: #851d6a;
+    text-align: center;
+}
+
+.org-link {
+    display: inline-block;
+    margin-top: 0.625rem;
+    color: #02ae8c;
+    text-decoration: none;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-weight: 500;
+    background-color: #851d6a;
+}
